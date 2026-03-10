@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/habit-stack-backend.iml" filepath="$PROJECT_DIR$/.idea/habit-stack-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/habit-stack.main.iml" filepath="$PROJECT_DIR$/.idea/modules/habit-stack.main.iml" />
     </modules>
   </component>
 </project>
