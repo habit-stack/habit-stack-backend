@@ -8,7 +8,7 @@ CREATE TABLE member(
                        role VARCHAR(20) NOT NULL DEFAULT 'MEMBER',
                        last_login_at TIMESTAMP,
                        password_updated_at TIMESTAMP,
-                       failed_login_count INT NOT NULL DEFAULT 0,
+                       failed_login_counts INT NOT NULL DEFAULT 0,
                        created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
                        updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
                        deleted_at TIMESTAMP
